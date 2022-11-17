@@ -1,0 +1,10 @@
+:root {
+    --pink: #B308B3;
+    --purple: #220952;
+    --blue: #506BF7;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+}
